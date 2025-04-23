@@ -10,3 +10,14 @@ CMS Bill Import
 | BGO-ESE     | Bago East        |
 | BGO-WSE     | Bago West        |
 
+# library
+| Library    | Purpose                                |
+|------------|----------------------------------------|
+| shiny      | GUI setup                              |
+| readxl     | Read and import .xlsx files           |
+| dplyr      | Data cleansing                         |
+| rsconnect  | Deploy package                        |
+| DT         | Display data frames in interactive tables |
+| writexl    | Export data frames to .xlsx files     |
+
+
